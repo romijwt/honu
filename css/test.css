@@ -1,0 +1,12 @@
+html{
+    height: 300vh;
+}
+body{
+    background-color: red;
+}
+.chester{
+    width: 800px;
+    margin: 0 auto;
+    margin-top: 100px;
+    border: 1px white solid;
+}
